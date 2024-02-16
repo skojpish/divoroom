@@ -1,0 +1,16 @@
+/.idea
+/venv1
+**/__pycache__
+/django_admin/proj/static/*
+/django_admin/proj/media/*
+/django_admin/proj/instock/migrations
+/django_admin/proj/contentadm/migrations
+/django_admin/proj/statistic/migrations
+/django_admin/config
+/django_admin/logs
+/bot/content
+
+/bot/data_bases/psql_conn.py
+/django_admin/proj/proj/config_db.py
+/bot/.env
+*.log
